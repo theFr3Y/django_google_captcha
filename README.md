@@ -15,5 +15,5 @@ django-recaptcha==3.0.0
 ```
 
 ## Run(طریقه استفاده):
-install the required package and fix the settings.py file in the django_google_captcha folder and the RECAPTCHA_PUBLIC_KEY and RECAPTCHA_PRIVATE_KEY options
+install the required package and fix the settings.py file in the django_google_captcha folder and the RECAPTCHA_PUBLIC_KEY and RECAPTCHA_PRIVATE_KEY options<br>
 پکیج مورد نیاز را نصب کنید و در فایل settings.py در پوشه django_google_captcha و گذینه های RECAPTCHA_PUBLIC_KEY و RECAPTCHA_PRIVATE_KEY را تصحیح کنید
